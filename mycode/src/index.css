@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+th{
+  text-align: start;
+   padding: 14px;
+}
+td{
+  padding: 14px;
+  text-align: start;
+}
