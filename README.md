@@ -16,7 +16,6 @@ This is a React-based project using Ant Design, Tailwind CSS, and React Router D
 1. **Clone the repository**
 ```bash
 git clone https://github.com/your-username/mycode.git .
-```
 
 ```bash
 cd mycode
@@ -44,4 +43,3 @@ http://localhost:5173
 
 ```bash
 https://myresult-psi.vercel.app/user
-```
