@@ -15,7 +15,7 @@ This is a React-based project using Ant Design, Tailwind CSS, and React Router D
 1. **Clone the repository**
 
 ```bash
-git clone [https://github.com/crong964/mycode.git](https://github.com/crong964/mycode.git) .
+git clone https://github.com/crong964/mycode.git .
 
 cd mycode
 
